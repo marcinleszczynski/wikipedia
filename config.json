@@ -1,0 +1,13 @@
+{
+  "numberOfScrapedDocuments": 3000,
+  "shouldScrape": false,
+  "shouldPreprocess": false,
+  "readDocuments": [
+    "https://en.wikipedia.org/wiki/GameCube",
+    "https://en.wikipedia.org/wiki/Wii",
+    "https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System",
+    "https://en.wikipedia.org/wiki/Nintendo_Entertainment_System"
+  ],
+  "maxNumberOfResultPages": 10,
+  "numberOfSimilarWords": 4
+}
